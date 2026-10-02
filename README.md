@@ -25,7 +25,6 @@ A MATLAB simulation study of how **antenna configuration** and **spatial correla
 - [Limitations and notes](#limitations-and-notes)
 - [Future work](#future-work)
 - [Testing](#testing)
-- [Team](#team)
 - [License](#license)
 
 ## Overview
