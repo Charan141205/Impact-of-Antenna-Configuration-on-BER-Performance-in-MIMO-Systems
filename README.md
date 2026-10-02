@@ -26,7 +26,6 @@ A MATLAB simulation study of how **antenna configuration** and **spatial correla
 - [Future work](#future-work)
 - [Testing](#testing)
 - [Team](#team)
-- [Citation](#citation)
 - [License](#license)
 
 ## Overview
@@ -75,7 +74,6 @@ mimo-ber-antenna-configuration/
 │   ├── theory.md               # System model and maths
 │   └── block_diagram.png
 ├── .github/workflows/tests.yml # CI (MATLAB)
-├── CITATION.cff
 ├── CONTRIBUTING.md
 └── LICENSE
 ```
@@ -251,12 +249,6 @@ vary noticeably from run to run; increase `CondTrials` for a steadier estimate.
 
 The same command runs in GitHub Actions on every push (`.github/workflows/tests.yml`)
 
-## Citation
-
-If this helps your work, see [`CITATION.cff`](CITATION.cff) or use GitHub's **"Cite this repository"** button.
-
-Key references: Telatar (1999), Foschini & Gans (1998), Tse & Viswanath (2005), Paulraj et al. (2003),
-Sadek et al. (2008), Proakis (2007) — full list in the report.
 
 ## License
 
