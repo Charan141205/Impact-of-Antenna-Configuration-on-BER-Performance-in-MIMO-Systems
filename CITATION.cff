@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Impact of Antenna Configuration on BER Performance in MIMO Communication Systems"
+type: software
+authors:
+  - family-names: "Gaddam"
+    given-names: "Bharathi"
+  - family-names: "Lagisetty"
+    given-names: "Vidya Charan"
+  - family-names: "Poreddy"
+    given-names: "Reddy Hema"
+  - family-names: "Ippagunta"
+    given-names: "Venkata Jagadeesh"
+  - family-names: "Narakkagari"
+    given-names: "Navya"
+date-released: "2026-04-06"
+license: MIT
+repository-code: "https://github.com/<your-username>/mimo-ber-antenna-configuration"
+keywords:
+  - MIMO
+  - BER
+  - spatial correlation
+  - zero forcing
+  - MMSE
+  - MATLAB
+abstract: >-
+  MATLAB simulation of the effect of antenna configuration and spatial correlation
+  on the BER performance of MIMO systems, comparing ZF and MMSE detection and
+  analysing the channel-matrix condition number.
