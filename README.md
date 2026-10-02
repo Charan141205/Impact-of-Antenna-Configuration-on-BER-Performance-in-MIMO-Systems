@@ -249,21 +249,7 @@ vary noticeably from run to run; increase `CondTrials` for a steadier estimate.
   ...
 ```
 
-The same command runs in GitHub Actions on every push (`.github/workflows/tests.yml`).
-
-## Team
-
-| Name | |
-| --- | --- |
-| Gaddam Bharathi | |
-| Lagisetty Vidya Charan | |
-| Poreddy Reddy Hema | |
-| Ippagunta Venkata Jagadeesh | |
-| Narakkagari Navya | |
-
-**Supervisor:** Dr. Hirald Dwaraka Praveena, M.Tech., Ph.D
-Department of Electronics and Communication Engineering, School of Engineering,
-Mohan Babu University, Sree Sainath Nagar, Tirupati – 517102, Andhra Pradesh.
+The same command runs in GitHub Actions on every push (`.github/workflows/tests.yml`)
 
 ## Citation
 
